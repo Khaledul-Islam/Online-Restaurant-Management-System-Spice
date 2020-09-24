@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SN9k/3blWwlJh/ns9Ke3n5NkxAG6p37188KVn/WIfWK4AvaXVg83Kag+SLTAt3V6ZIkIX8ICbxqB2Pm/0f11cQ==",
+  "dgSpecHash": "Un+/4TecG4eGZnFdH9uTKbgKqKX367uRE7PWEENl/mAc786+PECnTf5FP1Pz7xUFXZYtfbGFOPvzgJxSfTyVqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sh Shuvo\\Desktop\\Spice-master\\Spice\\Spice.csproj",
+  "projectFilePath": "C:\\Users\\Sh Shuvo\\source\\repos\\Spice\\Spice\\Spice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sh Shuvo\\.nuget\\packages\\microsoft.aspnetcore.authentication.facebook\\3.0.0\\microsoft.aspnetcore.authentication.facebook.3.0.0.nupkg.sha512",
     "C:\\Users\\Sh Shuvo\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\3.0.0\\microsoft.aspnetcore.authentication.google.3.0.0.nupkg.sha512",

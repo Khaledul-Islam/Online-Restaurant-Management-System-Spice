@@ -8939,11 +8939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sh Shuvo\\Desktop\\Spice-master\\Spice\\Spice.csproj",
+      "projectUniqueName": "C:\\Users\\Sh Shuvo\\source\\repos\\Spice\\Spice\\Spice.csproj",
       "projectName": "Spice",
-      "projectPath": "C:\\Users\\Sh Shuvo\\Desktop\\Spice-master\\Spice\\Spice.csproj",
+      "projectPath": "C:\\Users\\Sh Shuvo\\source\\repos\\Spice\\Spice\\Spice.csproj",
       "packagesPath": "C:\\Users\\Sh Shuvo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sh Shuvo\\Desktop\\Spice-master\\Spice\\obj\\",
+      "outputPath": "C:\\Users\\Sh Shuvo\\source\\repos\\Spice\\Spice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sh Shuvo\\AppData\\Roaming\\NuGet\\NuGet.Config",
